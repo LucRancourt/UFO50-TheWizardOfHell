@@ -769,6 +769,8 @@ MonoBehaviour:
     - {fileID: 21300000, guid: 56c6b571a76d9d9459c1555bd52fdce0, type: 3}
     - {fileID: 21300000, guid: 10e281fdd30f0d8449b7b0c36c2c80ac, type: 3}
     - {fileID: 21300000, guid: a1a8f3384eee98042b4415f48dc841f8, type: 3}
+  - sceneImages:
+    - {fileID: 21300000, guid: 2ce923c89f5d55f44a61009eec905aac, type: 3}
   movieScreen: {fileID: 1560970210}
   blackForeground: {fileID: 1131155178}
 --- !u!114 &1710780030
